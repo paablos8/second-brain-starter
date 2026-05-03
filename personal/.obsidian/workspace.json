@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "9359d2c9b1d80ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f312bf351b7e00a",
+        "type": "tabs",
+        "dimension": 57.941176470588246,
+        "children": [
+          {
+            "id": "cec6b8daab381cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resources/AI_LLMs/claude_code_workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude_code_workflows"
+            }
+          }
+        ]
+      },
+      {
+        "id": "13b682b89cf08893",
+        "type": "tabs",
+        "dimension": 42.058823529411754,
+        "children": [
+          {
+            "id": "bb7f4ea318df9677",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b5a794cd46bf27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dd3980be2311d3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db241754432be7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54fc6535360b4aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05eb1c2d86634d21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65001905fb770247",
+    "type": "split",
+    "children": [
+      {
+        "id": "71934bfb645c5ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab338a629913e73d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Inbox"
+            }
+          },
+          {
+            "id": "000d603d1a3abf0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Inbox"
+            }
+          },
+          {
+            "id": "41e5779825a17de4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d752117348272eb5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a9d6a8089fb9ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Inbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "cec6b8daab381cbc",
+  "lastOpenFiles": [
+    "3_Resources/Books/yahoo_acronym_origin.md",
+    "3_Resources/Books/tim_berners_lee_this_is_for_everyone.md",
+    "0_Inbox/In Tim Berners-Lee's autobiography was mentioned that Yahoo stands for \"Yet another hierarchial organized organisation\".md",
+    "3_Resources/Books",
+    "1_Projects/Exam_1_Pitch/slide9_para_self_knowledge.md",
+    "0_Inbox/Autobiography of Tim Berners-Lee \"This is for everyone\" is a 9.5 out of 10 book.md",
+    "0_Inbox/deload week starting Monday — drop volume 40%.md",
+    "triage.skill",
+    "CLAUDE.md",
+    "Inbox.md",
+    "Admin/Working with Obsidian.md",
+    "Welcome.md",
+    "0_Inbox/2026-05-05_para_self_knowledge.md",
+    "1_Projects/Exam_1_Pitch/sources.md",
+    "1_Projects/Exam_1_Pitch/outline.md",
+    "1_Projects/Exam_1_Pitch/_index.md",
+    "2_Areas/Learning_Habits/reading_log.md",
+    "2_Areas/Health/training_log.md",
+    "3_Resources/AI_LLMs/claude_code_workflows.md",
+    "3_Resources/Productivity/gtd_basics.md",
+    "3_Resources/Productivity/forte_BASB_summary.md",
+    "1_Projects/Exam_1_Pitch",
+    "4_Archives",
+    "3_Resources/AI_LLMs",
+    "3_Resources/Productivity",
+    "3_Resources",
+    "2_Areas/Learning_Habits",
+    "2_Areas/Health",
+    "2_Areas"
+  ]
+}
