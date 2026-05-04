@@ -4,14 +4,14 @@ A starter kit. Clone the vault, plug in Claude, capture your first note tonight.
 
 ---
 
-## 1. Install the tools (3 min)
+## 1. Install the tools
 
 - **Obsidian** (free) → <https://obsidian.md/download>
 - **Claude** — pick one:
   - *Easiest:* **Claude.ai Cowork** (web, no install) → <https://claude.ai>
   - *Power user:* **Claude Code** (CLI) → <https://docs.claude.com/en/docs/claude-code/setup>
 
-## 2. Clone the starter vault (2 min)
+## 2. Clone the starter vault
 
 The vault below is a ready-made PARA structure with seed notes and a triage skill — exactly what I demoed.
 
@@ -21,19 +21,19 @@ git clone https://github.com/paablos8/second-brain-starter.git
 
 Then in Obsidian: **Open folder as vault** → pick the cloned folder.
 
-## 3. Hook Claude up to your vault (3 min)
+## 3. Hook Claude up to your vault
 
 - **Cowork**: New project → name it *Second Brain* → add the cloned folder under *Context › On your computer*.
 - **Claude Code**: open a terminal, `cd` into the vault, run `claude`. The vault's `CLAUDE.md` is auto-loaded.
 
-## 4. Add the `/triage` skill (1 min)
+## 4. Add the `/triage` skill
 
 Already inside the repo at `.claude/skills/triage/SKILL.md`.
 
 - **Cowork**: type `/skill-creator` → paste the skill file → name it `triage`.
 - **Claude Code**: nothing to do — it picks up the skill from `.claude/skills/`.
 
-## 5. Capture → Triage → Done (1 min)
+## 5. Capture → Triage → Done 
 
 1. In Obsidian, drop a one-liner into `0_Inbox/`.
 2. In Claude, type `/triage`.
@@ -43,7 +43,7 @@ That's it. You now have a Second Brain.
 
 ---
 
-## 6. (Optional) Capture from your phone via Telegram (15 min)
+## 6. (Optional) Capture from your phone via Telegram 
 
 Turn any Telegram message into a note in `0_Inbox/`. Frictionless capture from anywhere.
 
